@@ -1,4 +1,4 @@
-# Automated-Trespass-detection-usign-object-detection-models
+# Automated-Trespass-detection-using-object-detection-models
 
 Manual ways of surveillance which usually includes a security guard at each entrance or a CCTV surveillance monitored centrally at one place requires 24x7 human intervention to observe and spot for illegal trespass but in spite of spending so much on human resource and capital, manual security systems are prone to many security leaks. Modern day technologies though can provide a human-error free, automated and trusted way to achieve this. This idea pitching document will cover one such proposed solution.
 
