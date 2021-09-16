@@ -1,1 +1,7 @@
-# Automated-Trespass-detection-usign-object-detection-model--Code
+# Automated-Trespass-detection-usign-object-detection-models
+
+Manual ways of surveillance which usually includes a security guard at each entrance or a CCTV surveillance monitored centrally at one place requires 24x7 human intervention to observe and spot for illegal trespass but in spite of spending so much on human resource and capital, manual security systems are prone to many security leaks. Modern day technologies though can provide a human-error free, automated and trusted way to achieve this. This idea pitching document will cover one such proposed solution.
+
+The traditional security systems mentioned above require involvement of human beings at various stages and are prone to many human error and misuse. With the development in the field of ML and computer vision there has been a great development in algorithms that can mimic human behaviour by detecting objects much like how humans do. The idea being pitched here talks about how one can utilize the power of these algorithms to develop an automated surveillance mechanism which requires minimal or no human intervention and can directly take input from the CCTVs devices to automatically spot for any anomaly and alert the end-user about this.
+
+The idea here is to develop an application that can utilize the output feed from CCTVs (or webcams, mobile cameras) and run an object detection model over it to automatically spot for any trespass in the range of surveillance. The user will get a notification whenever a trespass occurs and details of which will be stored in a database for later investigation.
